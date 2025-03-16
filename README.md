@@ -43,11 +43,11 @@ Welcome to the **Hangman Game** repository! This is a classic word-guessing game
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/Basmala-Abdullah/hangman-game.git
+   git clone https://github.com/Basmala-Abdullah/Hangman-Game.git
    ```
 2. **Navigate to the Project Directory**:
    ```bash
-   cd hangman-game
+   cd Hangman-Game
    ```
 3. **Open the Game**:
    - Open the `hangman2_layout.html` file in your browser.
