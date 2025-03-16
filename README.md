@@ -32,11 +32,10 @@ Welcome to the **Hangman Game** repository! This is a classic word-guessing game
 - **JavaScript**: Game logic and interactivity.
 ---
 
-## Demo Video 🎥
-
-Here's a quick demo of the Hangman Game in action:
-
-![Demo Video](video/Hangman_Game_Demo.mp4)
+📸
+ 
+ ![Hangman Game Screenshot](images/won.png)  
+ *Example of the game in action.*
 
 ---
 ## Installation and Setup 🛠️
